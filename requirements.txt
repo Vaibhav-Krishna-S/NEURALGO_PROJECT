@@ -1,0 +1,8 @@
+Install the dependencies 
+pip install -r requirements.txt
+
+ml_classifier.py : Main script for training and predicting sentiment.
+simplified_dataset.csv : Simplified training dataset.
+requirements.txt : List of dependencies.
+sentiment_model.pkl : Trained model (generated after running the script).
+README.md : This documentation file.
